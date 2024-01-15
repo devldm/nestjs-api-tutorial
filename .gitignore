@@ -4,6 +4,9 @@
 
 # env
 .env
+.env.test
+
+project-notes.md
 
 # Logs
 logs
